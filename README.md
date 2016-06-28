@@ -1,6 +1,7 @@
 # Hakemuslomake JavaEE - JAVA / HTML / JSP + JSTL / CSS
 
 Työkalut: Eclipse, Apache Maven, Apache Tomcat, PostgreSQL 9.5
+
 Avainsanoja: JSP, JSTL, Servlet, JavaBean, Data access object, SQL, Model, CSS.
 
 Tämän projektin tarkoitus oli ottaa tuntumaa JavaEE-ohjelmistokehitysalustaan ja kehittää omia taitoja hieman pidemmälle. Sovellus on melko yksinkertainen perusominaisuuksineen. Toteutusvaiheessa on tehty erilaisia ratkaisuja toimivan lopputuloksen saavuttamiseksi, mutta kuitenkin tiedostaen, että asiat olisi ehkä voitu tehdä suoraviivaisemmin ja yksinkertaisemmin. Tarkoitus oli kuitenkin lähteä melko nollista liikkeelle ja kehittää koodia osaamisen kasvamisen mukaan. Suurin haaste oli keksiä keino saada upotettu java-koodi pois jsp-sivuilta ja lopulta päästiinkin tyydyttävään lopputulokseen.
