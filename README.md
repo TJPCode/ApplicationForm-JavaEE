@@ -1,4 +1,4 @@
-# Hakemuslomake JavaEE - JAVA / HTML / JSP + JSTL / CSS
+# Hakemuslomake JavaEE - JAVA / HTML / JSP + JSTL / CSS / SQL
 
 Työkalut: Eclipse, Apache Maven, Apache Tomcat, PostgreSQL 9.5
 
